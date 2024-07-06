@@ -1,0 +1,11 @@
+step1: features and functions:
+Add new contact
+view contact
+Edit contact
+Delete
+Search for a contact
+Saving
+
+Data structures
+Lists and Dictionary; because they are mutable; You can also look at the key associated with the contact
+create individual functions to find it easier to debug
